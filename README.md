@@ -11,7 +11,7 @@ make \
 or \
 ./code dataset2.txt 
 
-You can change map.h in as you please to try to different hash map. I have already added many of it, but they've in comment line.
+You can change map.h in as you please to try to different hash maps. I have already added many of it, but they've in comment line.
 
 # How to Run DataSetGenerator 
 
