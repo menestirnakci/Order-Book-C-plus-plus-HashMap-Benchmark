@@ -3,7 +3,6 @@
 #### Please use git clone command but not download as zip since I uploaded datasets with git LFS. If you download as zip it will not download datasets.
 git clone https://github.com/menestirnakci/Order-Book-C-HashMap-Benchmark.git 
 
-
 # How To Run Benchmark
 
 cmake CMakeLists.txt \
@@ -11,6 +10,8 @@ make \
 ./code dataset1.txt \
 or \
 ./code dataset2.txt 
+
+You can change map.h in as you please to try to different hash map. I have already added many of it, but they've in comment line.
 
 # How to Run DataSetGenerator 
 
