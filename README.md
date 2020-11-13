@@ -1,7 +1,7 @@
 # Order-Book C++ HashMap Benchmark
 
-#### Please use git clone command but not download as zip since I uploaded datasets with git LFS. 
-#### If you download as zip, it will not download datasets.
+#### Please use git clone command but not download as zip since I've uploaded datasets with Git LFS. 
+#### If you download code as zip, it is not going to download datasets.
 git clone https://github.com/menestirnakci/Order-Book-C-HashMap-Benchmark.git 
 
 # How To Run Benchmark
@@ -13,7 +13,7 @@ or \
 ./code dataset2.txt 
 
 You can change map.h in as you please to try to different hash maps. I have already added many, but they've in comment line. \
-You need one map for grouped_by_price which is LEVEL 2 data and one map for order_by_order which is LEVEL 1 data.
+You need one map for grouped_by_price which is LEVEL 2, data and one map for order_by_order which is LEVEL 1 data.
 
 # How to Run DataSetGenerator 
 
