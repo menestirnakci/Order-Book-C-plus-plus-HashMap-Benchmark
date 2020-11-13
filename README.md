@@ -1,9 +1,25 @@
 # Order-Book C++ HashMap Benchmark
 
+# How To Run Benchmark
+
+cmake CMakeLists.txt
+make
+./code dataset1.txt 
+or
+./code dataset2.txt
+
+# How to Run DataSetGenerator 
+
+cmake CMakeLists.txt
+make
+./dataSetGenerator
+
+
 ## This repo is for creating a hash map benchmark. Hash maps are used in order books. 
 
 # Requirements
 
+### Cmake
 ### Pyhton3
 
 except google:: and boost:: others header only, copy and paste the header to your project folder
