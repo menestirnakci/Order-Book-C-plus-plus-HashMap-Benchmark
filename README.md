@@ -1,5 +1,9 @@
 # Order-Book C++ HashMap Benchmark
 
+## Please git clone command but not download as zip since uploaded datasets with git LFS. If you download as zip it will not download datasets.
+git clone https://github.com/menestirnakci/Order-Book-C-HashMap-Benchmark.git 
+
+
 # How To Run Benchmark
 
 cmake CMakeLists.txt \
