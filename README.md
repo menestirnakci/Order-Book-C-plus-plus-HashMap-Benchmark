@@ -26,7 +26,7 @@ make \
 # Requirements
 
 ### Cmake
-### Pyhton3
+### Python 3
 
 except google:: and boost:: others header only, copy and paste the header to your project folder
 
