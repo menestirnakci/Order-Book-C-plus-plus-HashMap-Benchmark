@@ -1,5 +1,7 @@
 # Order-Book C++ HashMap Benchmark
 
+## This repo is for creating a hash map benchmark. Hash maps are used in order books. 
+
 #### Please use git clone command but not download as zip since I've uploaded datasets with Git LFS. 
 #### If you download code as zip, it is not going to download datasets.
 git clone https://github.com/menestirnakci/Order-Book-C-HashMap-Benchmark.git 
@@ -20,9 +22,6 @@ You need one map for grouped_by_price which is LEVEL 2 data, and one map for ord
 cmake CMakeLists.txt \
 make \
 ./dataSetGenerator
-
-
-## This repo is for creating a hash map benchmark. Hash maps are used in order books. 
 
 # Requirements
 
