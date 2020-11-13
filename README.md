@@ -2,11 +2,11 @@
 
 # How To Run Benchmark
 
-cmake CMakeLists.txt
-make
-./code dataset1.txt 
-or
-./code dataset2.txt
+cmake CMakeLists.txt \
+make \
+./code dataset1.txt \
+or \
+./code dataset2.txt \
 
 # How to Run DataSetGenerator 
 
