@@ -1,6 +1,6 @@
 # Order-Book C++ HashMap Benchmark
 
-#### Please use git clone command but not download as zip since uploaded datasets with git LFS. If you download as zip it will not download datasets.
+#### Please use git clone command but not download as zip since I uploaded datasets with git LFS. If you download as zip it will not download datasets.
 git clone https://github.com/menestirnakci/Order-Book-C-HashMap-Benchmark.git 
 
 
