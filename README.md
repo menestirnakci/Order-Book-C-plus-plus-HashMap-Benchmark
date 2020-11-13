@@ -26,7 +26,8 @@ except google:: and boost:: others header only, copy and paste the header to you
 
 for google:: \
 https://github.com/sparsehash/sparsehash/blob/master/INSTALL \
-or if you could not install \
+or if you could not install 
+
 sudo -i \
 git clone https://github.com/sparsehash/sparsehash.git \
 cd  ./sparsehash/src \
