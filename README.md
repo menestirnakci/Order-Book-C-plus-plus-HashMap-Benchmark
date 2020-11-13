@@ -6,12 +6,12 @@ cmake CMakeLists.txt \
 make \
 ./code dataset1.txt \
 or \
-./code dataset2.txt \
+./code dataset2.txt 
 
 # How to Run DataSetGenerator 
 
-cmake CMakeLists.txt
-make
+cmake CMakeLists.txt \
+make \
 ./dataSetGenerator
 
 
