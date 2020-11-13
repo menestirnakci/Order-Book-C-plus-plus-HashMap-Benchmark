@@ -12,7 +12,7 @@ make \
 or \
 ./code dataset2.txt 
 
-You can change map.h in as you please to try to different hash maps. I have already added many, but they've in comment line. \
+You can change map.h in as you please to try to different hash maps. I have already added many, but they are in comment line. \
 You need one map for grouped_by_price which is LEVEL 2, data and one map for order_by_order which is LEVEL 1 data.
 
 # How to Run DataSetGenerator 
