@@ -26,7 +26,7 @@ make \
 # Requirements
 
 ### Cmake
-### Python 3
+### Python 3 and numpy
 
 except google:: and boost:: others header only, copy and paste the headers to your project folder
 
