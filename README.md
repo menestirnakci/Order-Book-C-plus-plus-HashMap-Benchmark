@@ -4,7 +4,7 @@
 
 #### Please use git clone command but not download as zip since I've uploaded datasets with Git LFS. 
 #### If you download code as zip, it is not going to download datasets.
-git clone https://github.com/menestirnakci/Order-Book-C-HashMap-Benchmark.git 
+git clone https://github.com/menestirnakci/Order-Book-C-plus-plus-HashMap-Benchmark.git
 
 # How To Run Benchmark
 
