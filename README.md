@@ -28,7 +28,7 @@ make \
 ### Cmake
 ### Python 3
 
-except google:: and boost:: others header only, copy and paste the header to your project folder
+except google:: and boost:: others header only, copy and paste the headers to your project folder
 
 for google:: \
 https://github.com/sparsehash/sparsehash/blob/master/INSTALL \
