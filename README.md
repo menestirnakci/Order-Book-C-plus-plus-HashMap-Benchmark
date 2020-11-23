@@ -57,6 +57,7 @@ https://github.com/greg7mdp/sparsepp
 
 ### absl::
 https://github.com/abseil/abseil-cpp
+(You might want to check CMakeLists.txt in the benchmark folder.)
 
 ### robin_hood::
 https://github.com/martinus/robin-hood-hashing \
