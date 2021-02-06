@@ -4,8 +4,9 @@
 
 #### Please use git clone command but not download as zip since I've uploaded datasets with Git LFS. 
 #### If you download code as zip, it is not going to download datasets.
-git clone https://github.com/menestirnakci/Order-Book-C-plus-plus-HashMap-Benchmark.git
+git lfs clone https://github.com/menestirnakci/Order-Book-C-plus-plus-HashMap-Benchmark.git
 
+#### You may need to run sudo apt install git-lfs before cloning. 
 # How To Run Benchmark
 
 cmake CMakeLists.txt \
