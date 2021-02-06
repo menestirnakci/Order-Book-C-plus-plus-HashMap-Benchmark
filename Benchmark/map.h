@@ -3,23 +3,23 @@
 #include <map>
 #include <iostream>
 #include <algorithm>
-#include "bytell_hash_map.hpp"
-#include "unordered_map.hpp"
+#include "map/bytell_hash_map.hpp"
+#include "map/unordered_map.hpp"
 #include <google/dense_hash_map>
 #include <boost/unordered_map.hpp>
-#include "tsl/hopscotch_map.h"
-#include "tsl/bhopscotch_map.h"
-#include "tsl/sparse_map.h"
-#include "tsl/robin_map.h"
-#include "parallel_hashmap/phmap.h"
-#include "parallel_hashmap/btree.h"
-#include "absl/container/flat_hash_map.h"
-#include "absl/container/node_hash_map.h"
-#include "robin_hood.h"
+#include "map/tsl/hopscotch_map.h"
+#include "map/tsl/bhopscotch_map.h"
+#include "map/tsl/sparse_map.h"
+#include "map/tsl/robin_map.h"
+#include "map/parallel_hashmap/phmap.h"
+#include "map/parallel_hashmap/btree.h"
+#include "map/absl/container/flat_hash_map.h"
+#include "map/absl/container/node_hash_map.h"
+#include "map/robin_hood.h"
 #include <boost/container/flat_map.hpp>
-#include "hash_table7.hpp"
-#include "hash_set7.h"
-#include "sparsepp/spp.h"
+#include "map/hash_table7.hpp"
+#include "map/hash_set7.h"
+#include "map/sparsepp/spp.h"
 struct level
 {
 public:
