@@ -1,2 +1,4 @@
 Benchmark/dataSet1.txt
 Benchmark/dataSet2.txt
+Benchmark/cmake-build-debug/
+DataSetGenerator/cmake-build-debug/
