@@ -7,6 +7,8 @@
 git lfs clone https://github.com/menestirnakci/Order-Book-C-plus-plus-HashMap-Benchmark.git
 
 #### You may need to run sudo apt install git-lfs before cloning. 
+
+#### Do not forget to decompress datasets in benchmark folder
 # How To Run Benchmark
 
 cmake CMakeLists.txt \
