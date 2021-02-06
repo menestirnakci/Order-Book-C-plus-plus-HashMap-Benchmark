@@ -39,7 +39,9 @@ or if you could not install
 
 sudo -i \
 git clone https://github.com/sparsehash/sparsehash.git \
-cd  ./sparsehash/src \
+cd  ./sparsehash \
+./configure \
+cd src \
 cp -R sparsehash/ /usr/local/include/ \
 cp -R google/ /usr/local/include/
 
